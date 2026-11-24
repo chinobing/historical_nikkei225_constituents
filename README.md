@@ -8,8 +8,8 @@ List of nikkei 225 historical constituents from 2026/10/23 to present. CSV forma
 **'nasdaq_100_historical_components.csv'**  contains historical nikkei 225 index membership from 2026 til present. Output from **'nikkei225.py'**
 
 ## Latest Changes
-Nikkei 225 Constituents Auto Renew at **2026-11-23 23:12:59**
+Nikkei 225 Constituents Auto Renew at **2026-11-24 07:55:17**
 
 | date       | added_tickers            | removed_tickers          |
 |:-----------|:-------------------------|:-------------------------|
-| 2026-11-02 | ['5016', '9697', '6525'] | ['4902', '7004', '543A'] |
+| 2026-11-02 | ['9697', '6525', '5016'] | ['543A', '4902', '7004'] |
